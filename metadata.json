@@ -1,0 +1,5 @@
+{
+  "name": "XML Diff Studio",
+  "description": "A lightweight and high-performance XML comparison tool for side-by-side line-by-line diffing and structural analysis.",
+  "requestFramePermissions": []
+}
